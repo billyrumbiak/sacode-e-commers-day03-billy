@@ -1,3 +1,5 @@
+/*Element Selector*/
+
 header {
 	background-color: black; color: white; padding: 5px; text-align: center;
 }
@@ -12,4 +14,21 @@ footer {
 
 b {
 	color: blue;
+}
+
+/*Class Selector*/
+
+.bg-dark {
+	background-color: #333;
+
+}
+
+.text-center {
+	text-align: center;
+}
+
+/*Id Selector*/
+
+#text-light {
+	color: #ccc;
 }
